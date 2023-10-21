@@ -1,4 +1,4 @@
- // Google Maps
+// Google Maps
 function showMap() {
     let map = new google.maps.Map(document.getElementById('map-container'), {zoom: 13});
     let geocoder = new google.maps.Geocoder;
